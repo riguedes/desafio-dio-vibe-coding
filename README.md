@@ -108,3 +108,4 @@ Para garantir acessibilidade e inclusão:
 ```
 
 ### 2. Plano MVP
+Link do Projeto: https://paycontrol-official.lovable.app

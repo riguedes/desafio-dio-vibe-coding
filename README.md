@@ -6,18 +6,13 @@ Esse repositório é para mostrar o projeto de um bootcamp de Inteligência Arti
 
 É uma forma leve e criativa de desenvolver com IA, baseada em conversas naturais e bem estruturadas sem precisar de escrever um código de programação, descrevendo suas ideias de forma clara, com intenção e contexto.
 
-## 🎯 Desafio
+## Desafio
 
-Problema: Muitas pessoas não conseguem manter um controle financeiro porque os aplicativos exigem muita entrada de dados manual, e a criação de orçamentos é vista como algo tedioso. 
+Atualmente, as pessoas não conseguem manter um controle financeiro devido aos aplicativos exigirem muita entrada de dados manual além da criação de orçamentos ser visto como algo tedioso. Logo, é relevante uma solução que permita controlar as finanças por meio de uma conversa simples, com agentes de IA capazes de criar planos de economia personalizados e automatizados, por meio das ideias de Vibe Coding e MVP para desenvolver o conceito desse aplicativo.
 
-Precisamos de uma solução que permita **controlar as finanças por meio de uma conversa simples**, com **agentes de IA** capazes de criar **planos de economia personalizados e automatizados**. Você deve utilizar as ideias de **Vibe Coding** e **MVP (Produto Mínimo Viável)** para desenvolver o **conceito de um aplicativo** que resolva o problema citado.
+## Etapas
 
-> [!IMPORTANT]
-> Você **não precisa construir o código**! O foco está em **usar a IA como sua parceira criativa**, transformando boas ideias e prompts em conceitos funcionais que simulam um produto real.
-
-## 🪄 Etapas do Desafio
-
-### 1. Saber o que Pedir é a Chave! Otimize seus Prompts!
+### 1. Engenharia de Prompts
 
 Antes de pedir para a IA "criar um app", é importante definir com clareza o que você quer construir e por quê. Para isso, você vai criar um **PRD (Product Requirements Document)** simplificado, uma especificação que serve como _briefing_ para a IA entender sua ideia.
 

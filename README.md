@@ -14,7 +14,17 @@ Atualmente, as pessoas não conseguem manter um controle financeiro devido aos a
 
 ### 1. Engenharia de Prompts
 
+``` txt
+# Engenharia de Prompt utilizada:
+
+Revise o seguinte PRD para que seja usado no Lovable com o intuito de desenvolver minhas soft skills em Vibe Coding.
+Como resposta, quero o PRD revisado e sintetize de forma didática os conceitos de PRD e Vibe Coding e acrescente na
+engenharia de requisitos a questão do Design Universal
+
+````
+
 ```txt
+# PRD exemplo:
 # Contexto
 Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
 A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
@@ -36,6 +46,61 @@ Pessoas que querem começar a organizar suas finanças de forma prática e sem c
 # Entregável da IA
 Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
 Usar tom educativo e linguagem acessível, em português.
+```
+
+```txt
+# PRD Revisado – App de Organização de Finanças Pessoais
+
+## 1. Contexto  
+Criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas naturais com o usuário.  
+O objetivo é tornar o controle financeiro simples, acessível e humano, eliminando a necessidade de formulários complexos ou planilhas.
+
+## 2. Problema  
+- Usuários desistem de controlar gastos porque os apps atuais exigem **entrada manual excessiva.  
+- Falta personalização e aconselhamento prático.  
+- A experiência é mais burocrática do que educativa.  
+- O app deve resolver isso com uma interface conversacional e recomendações automáticas que se adaptem ao perfil do usuário.
+
+## 3. Público-Alvo  
+- Pessoas que estão iniciando no controle financeiro.  
+- Usuários que buscam simplicidade e orientação prática sem precisar de conhecimento técnico.  
+- Jovens adultos e profissionais que querem organizar gastos sem complicação.
+
+## 4. Funcionalidades-Chave  
+1. Registro de gastos via chat em linguagem natural.  
+2. Classificação automática das transações.  
+3. Definição e acompanhamento de metas financeiras.  
+4. Agente Financeiro: dicas de economia personalizadas e educativas.  
+5. Relatórios visuais simples (gráficos e resumos adaptados ao perfil do usuário).  
+
+## 5. Requisitos de Design Universal  
+Para garantir acessibilidade e inclusão:  
+- Compatibilidade com leitores de tela.  
+- Contraste adequado entre texto e fundo, seguindo normas WCAG.  
+- Tamanho de fonte ajustável e opção de modo alto contraste.  
+- Navegação por voz e comandos simplificados para pessoas com mobilidade reduzida.  
+- Feedback multimodal (visual, sonoro e tátil) para confirmar ações.  
+- Linguagem clara e acessível, evitando jargões financeiros complexos.  
+- Fluxos flexíveis: permitir que o usuário escolha entre interação por texto ou voz.  
+- Design responsivo para diferentes dispositivos.  
+- Inclusão cultural e linguística: suporte a diferentes variações do português e possibilidade de expansão para outros idiomas.  
+
+## 6. Entregável da IA (MVP)  
+- Principais telas:  
+  - Tela de chat (entrada de dados)  
+  - Tela de metas (configuração e acompanhamento)  
+  - Tela de relatórios (gráficos e insights)  
+- Recursos necessários:  
+  - Processamento de linguagem natural (NLP)  
+  - Motor de classificação automática de gastos  
+  - Módulo de geração de relatórios visuais  
+  - Sistema de dicas inteligentes (Agente Financeiro)  
+  - Implementação de acessibilidade (design universal)  
+- Validação inicial:  
+  - Testes com usuários iniciantes e pessoas com diferentes necessidades de acessibilidade  
+  - Feedback sobre clareza da conversa e usabilidade inclusiva  
+  - Ajustes na personalização das metas e relatórios
+ 
 ```
 
 ### 2. Plano MVP

@@ -109,3 +109,27 @@ Para garantir acessibilidade e inclusão:
 
 ### 2. Plano MVP
 Link do Projeto: https://paycontrol-official.lovable.app
+
+Siga as etapas:
+
+```sh
+# Etapa 1: Clone o repositório.
+git clone <YOUR_GIT_URL>
+
+# Etapa 2: Navegue pelo diretório do projeto.
+cd <YOUR_PROJECT_NAME>
+
+# Etapa 3: Instale as dependências do projeto.
+npm i
+
+# Etapa 4: Utilize o comando.
+npm run dev
+```
+
+Tecnologias utilizadas no projeto:
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS

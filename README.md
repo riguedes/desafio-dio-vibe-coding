@@ -13,6 +13,7 @@ Atualmente, as pessoas não conseguem manter um controle financeiro devido aos a
 ## Etapas
 
 ### 1. Engenharia de Prompts
+Este prompt contém a evolução de um PRD (Product Requirements Document) tendo como objetivo mostrar o uso de IA e práticas de Vibe Coding no desenvolvimento de soft skills e a construção de produtos digitais mais humanos e acessíveis.
 
 ``` txt
 # Engenharia de Prompt utilizada:
@@ -22,6 +23,8 @@ Como resposta, quero o PRD revisado e sintetize de forma didática os conceitos 
 engenharia de requisitos a questão do Design Universal
 
 ````
+
+PRD utilizado como exemplo e anexado ao prompt:
 
 ```txt
 # PRD exemplo:
@@ -47,6 +50,8 @@ Pessoas que querem começar a organizar suas finanças de forma prática e sem c
 Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
 Usar tom educativo e linguagem acessível, em português.
 ```
+
+PRD resultante do prompt construído:
 
 ```txt
 # PRD Revisado – App de Organização de Finanças Pessoais
@@ -100,7 +105,6 @@ Para garantir acessibilidade e inclusão:
   - Testes com usuários iniciantes e pessoas com diferentes necessidades de acessibilidade  
   - Feedback sobre clareza da conversa e usabilidade inclusiva  
   - Ajustes na personalização das metas e relatórios
- 
 ```
 
 ### 2. Plano MVP

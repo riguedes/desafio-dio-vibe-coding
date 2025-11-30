@@ -1,12 +1,10 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# Desafio DIO: Construindo uma Aplicação de Finanças Pessoais com Vibe Coding
 
-Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
+Esse repositório é para mostrar o projeto de um bootcamp de Inteligência Artificial fornecido pela DIO, para aprender a criar soluções com IA de forma criativa, guiando ferramentas de Vibe Coding, sendo o foco desenvolver um Aplicativo de Organização de Finanças Pessoais.
 
-## ✨ O que é Vibe Coding
+## Vibe Coding
 
-**Vibe Coding** é uma forma leve e criativa de desenvolver com IA, baseada em **conversas naturais e bem estruturadas**. Você não precisa escrever código linha por linha. Em vez disso, aprende a **guiar a IA** descrevendo suas ideias de forma clara, com **intenção e contexto**. Em outras palavras:
-
-> Você mostra a vibe da sua ideia e a IA transforma em solução (ou em um caminho para ela).
+É uma forma leve e criativa de desenvolver com IA, baseada em conversas naturais e bem estruturadas sem precisar de escrever um código de programação, descrevendo suas ideias de forma clara, com intenção e contexto.
 
 ## 🎯 Desafio
 
